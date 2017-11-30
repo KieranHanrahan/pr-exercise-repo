@@ -6,7 +6,7 @@ made some other changes
 
 sample branch changes
 
-Add your name and and one other line here:
+Add your name and and one other line here
 
 
 
@@ -19,3 +19,6 @@ Jameel
 
 Kieran
 "Work so one day your idols become your rivals"
+
+Adam-"1-800-Youre-Welcome"
+
